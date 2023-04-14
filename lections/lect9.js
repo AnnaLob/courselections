@@ -33,3 +33,4 @@ console.log(incr1++);
 console.log(decr1--);
 console.log(incr1);
 console.log(decr1);
+console.log(++incr1);
